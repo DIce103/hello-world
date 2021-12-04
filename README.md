@@ -1,4 +1,6 @@
 # hello-world
 get-started hello-world
 
-name DIce
+My first repository on Github
+
+I love :coffee: :pizza: and :dancer:.
